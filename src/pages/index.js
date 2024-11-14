@@ -23,17 +23,16 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
+          <a href='/grace ' className='card'>
             <h3>GRACE'S PAGE &rarr;</h3>
           </a>
 
           <a
-            href='/TomHolland ' className='card'>
+            href='/connor ' className='card'>
             <h3>CONNOR'S PAGE&rarr;</h3>
           </a>
           <a
-            href='/TomHolland '
-            className='card'>
+            href='/carys ' className='card'>
             <h3>CARYS'S PAGE&rarr;</h3>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
