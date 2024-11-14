@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>CSCI 1000 GROUP PROJECT</h1>
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
@@ -24,23 +24,17 @@ export default function Home() {
 
         <div className='grid'>
           <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <h3>GRACE'S PAGE &rarr;</h3>
           </a>
 
           <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
-            <p>
-              Return to the Github for resources on creating your own website!
-            </p>
+            href='/TomHolland ' className='card'>
+            <h3>CONNOR'S PAGE&rarr;</h3>
           </a>
           <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
+            href='/TomHolland '
             className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <h3>CARYS'S PAGE&rarr;</h3>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
             <h3>HTML and CSS &rarr;</h3>
