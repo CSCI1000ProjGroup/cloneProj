@@ -6,13 +6,13 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Connor</h1>
           </div>
 
           <a className='button' href='/'>
             <p> Back to Home Page</p>
           </a>
-        </main>
+        </main> 
 
         <style jsx>{`
           .container {
