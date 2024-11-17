@@ -9,6 +9,11 @@ export default function examplePage() {
             <h1 className='title'>Grace</h1>
           </div>
 
+          <p className='description'>
+            Hello, my name is Grace. This is my personal page for the CSCI 1000 group GitHub project.
+            I am a freshman at CU Boulder. I am majoring in computer science with a minor in business, and I am from colorado.
+          </p>
+
           <a className='button' href='/'>
             <p> Back to Home Page</p>
           </a>
