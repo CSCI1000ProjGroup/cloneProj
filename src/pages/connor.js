@@ -1,4 +1,4 @@
-export default function examplePage() {
+export default function connorPage() {
     return (
       <div className='container'>
         <title>Website</title>
@@ -8,6 +8,12 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Connor</h1>
           </div>
+
+          <a className='description' href='/'>
+            <p> Hi, my name is Connor. I am a Student at the University of Colorado Boulder. 
+                I am studying Computer Science and going to minor in buisness. 
+                I enjoy skiing, playing soccer and golf, and hiking.</p>
+          </a>
 
           <a className='button' href='/'>
             <p> Back to Home Page</p>
@@ -19,6 +25,7 @@ export default function examplePage() {
             min-height: 100vh;
             padding: 0 0.5rem;
             display: flex;
+            color: #FFFFFF
             flex-direction: column;
             justify-content: center;
             align-items: center;
@@ -61,7 +68,7 @@ export default function examplePage() {
             flex-basis: 45%;
             padding: 0.5rem;
             text-align: left;
-            color: inherit;
+            color: #FFFFFF;
             text-decoration: none;
             border: 1px solid #eaeaea;
             border-radius: 10px;
