@@ -9,7 +9,7 @@ export default function connorPage() {
             <h1 className='title'>Connor</h1>
           </div>
 
-          <a className='description' href='/'>
+          <a className='description'>
             <p> Hi, my name is Connor. I am a Student at the University of Colorado Boulder. 
                 I am studying Computer Science and going to minor in buisness. 
                 I enjoy skiing, playing soccer and golf, and hiking.</p>
@@ -68,7 +68,6 @@ export default function connorPage() {
             flex-basis: 45%;
             padding: 0.5rem;
             text-align: left;
-            color: #FFFFFF;
             text-decoration: none;
             border: 1px solid #eaeaea;
             border-radius: 10px;
