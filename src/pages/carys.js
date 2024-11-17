@@ -9,6 +9,11 @@ export default function examplePage() {
             <h1 className='title'>Carys</h1>
           </div>
 
+          <p className='description'>
+            Hello, I am Carys and this is my page for the CSCI 1000 GitHub project.
+            I am a freshman at CU Boulder, but I am originally from Fairfield, Connecticut.
+          </p>
+
           <a className='button' href='/'>
             <p> Back to Home Page</p>
           </a>
