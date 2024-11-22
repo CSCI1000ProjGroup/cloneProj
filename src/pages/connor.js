@@ -79,6 +79,8 @@ export default function connorPage() {
           .button:active {
             color: #0070f3;
             border-color: #0070f3;
+            border: 5px solid #eaeaea;
+            border-radius: 20px;
           }
 
           .button p {
